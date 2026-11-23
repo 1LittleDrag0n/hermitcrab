@@ -18,8 +18,8 @@ ARCH=x86_64
 OUT="$DIST/HermitCrab-$VERSION-$ARCH.AppImage"
 
 echo "==> HermitCrab $VERSION"
+mkdir -p "$BUILD" "$DIST"     # must exist before cleaning (fresh CI checkouts have no build/)
 find "$BUILD" -mindepth 1 -maxdepth 1 ! -name appimagetool -exec rm -rf {} +
-mkdir -p "$BUILD" "$DIST"
 
 # ── 1. isolated build environment ─────────────────────────────────────────────
 python3 -m venv "$BUILD/venv"
