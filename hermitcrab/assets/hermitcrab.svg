@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="94.259" y1="4.26" x2="66.181" y2="71.835" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e3f6f8"/>
+      <stop offset="0.5125" stop-color="#8fd3dd"/>
+      <stop offset="1" stop-color="#3e9aae"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="31.675" y1="25.744" x2="51.141" y2="96.283" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e3f6f8"/>
+      <stop offset="0.5125" stop-color="#8fd3dd"/>
+      <stop offset="1" stop-color="#3e9aae"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="46" y1="72" x2="46" y2="102" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f77a62"/>
+      <stop offset="1" stop-color="#d2432f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="33" y1="95" x2="33" y2="120.125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f77a62"/>
+      <stop offset="1" stop-color="#d2432f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="74" y1="95" x2="74" y2="120.125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f77a62"/>
+      <stop offset="1" stop-color="#d2432f"/>
+    </linearGradient>
+  </defs>
+  <title>hermitcrab.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <ellipse cx="66" cy="119" rx="48" ry="5" fill="#000000" opacity="0.13"/>
+    <g>
+      <polyline points="48,84 33,81 20,88" fill="none" stroke="#7a2218" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="48,89 31,90 18,101" fill="none" stroke="#7a2218" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="49,94 33,100 24,112" fill="none" stroke="#7a2218" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="84,84 99,81 112,88" fill="none" stroke="#7a2218" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="84,89 101,90 114,101" fill="none" stroke="#7a2218" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="83,94 99,100 108,112" fill="none" stroke="#7a2218" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <polyline points="48,84 33,81 20,88" fill="none" stroke="#e2563f" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="48,89 31,90 18,101" fill="none" stroke="#e2563f" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="49,94 33,100 24,112" fill="none" stroke="#e2563f" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="84,84 99,81 112,88" fill="none" stroke="#e2563f" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="84,89 101,90 114,101" fill="none" stroke="#e2563f" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="83,94 99,100 108,112" fill="none" stroke="#e2563f" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M74.5 25.411 C74.988 23.732 88.585 18.788 101.482 16.338 C114.832 13.801 127.433 13.936 123.965 23.128 C119.77 34.245 118.039 44.797 117.416 53.918 C116.138 72.661 119.543 85.36 115.88 84.5 C106.803 82.368 96.558 71.833 88.532 59.804 C80.258 47.404 74.343 33.417 74.5 25.411 Z" fill="url(#linear-gradient-1)" stroke="#23697a" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M5.657 93.036 C5.206 91.909 4.9 90.868 4.73 89.898 C4.524 88.715 4.521 87.638 4.711 86.638 C4.89 85.693 5.241 84.817 5.753 83.987 C6.226 83.221 6.838 82.495 7.578 81.79 C8.431 80.979 9.058 80.296 9.886 79.603 C10.557 79.042 11.359 78.475 12.52 77.829 C13.907 77.057 15.619 76.827 17.447 76.513 C19.04 76.24 20.72 75.902 22.349 75.088 C24.324 74.1 25.718 72.483 26.897 70.255 C27.809 68.532 28.592 66.444 29.417 64 C30.82 59.843 32.566 57.444 34.759 55.574 C37.05 53.62 39.829 52.244 43.211 50.043 C46.727 47.755 49.065 45.461 50.827 43.255 C53.3 40.157 54.637 37.231 56.5 34.73 C57.888 32.867 59.168 31.054 60.377 29.456 C61.949 27.378 63.4 25.664 64.813 24.675 C65.642 24.083 66.297 23.664 66.946 23.341 C67.667 22.982 68.381 22.742 69.319 22.517 C70.199 22.306 71.077 22.187 71.949 22.151 C72.841 22.115 73.727 22.167 74.6 22.298 C75.467 22.428 76.321 22.636 77.157 22.914 C77.985 23.189 78.795 23.532 79.581 23.936 C80.377 24.343 81.149 24.813 81.892 25.334 C82.625 25.849 83.33 26.415 84 27.024 C85.537 28.42 86.666 29.748 87.856 31.033 C89.029 32.299 90.261 33.523 92 34.73 C93.749 35.943 95.016 36.916 96.21 37.965 C97.409 39.02 98.534 40.152 100 41.686 C101.657 43.419 102.671 44.69 103.54 45.831 C104.605 47.227 105.453 48.429 107 50.043 C108.385 51.487 109.861 53.254 111.263 55.044 C112.708 56.888 114.073 58.757 115.179 60.325 C115.842 61.267 117.072 62.542 118.125 63.91 C119.183 65.281 120.063 66.745 120.018 68.055 C119.972 69.359 120.222 72.154 120.359 74.939 C120.496 77.739 120.52 80.529 120.018 81.79 C119.52 83.037 118.77 84.13 117.92 85.135 C117.056 86.157 116.089 87.088 115.179 88 C114.21 88.97 111.723 89.895 109.025 90.391 C106.692 90.819 104.201 90.925 102.398 90.462 C99.193 90.194 97.409 89.724 95.108 89.028 C93.328 88.49 91.239 87.818 87.944 87 C84.318 86.1 80.952 85.702 77.487 85.651 C74.171 85.601 70.763 85.869 66.949 86.317 C63.107 86.769 59.275 87.326 55.52 88 C51.651 88.693 47.865 89.51 44.234 90.462 C40.82 91.356 37.544 92.37 34.467 93.512 C31.097 94.763 27.966 96.169 25.156 97.741 C24.162 97.865 23.16 97.948 22.161 97.989 C21.152 98.031 20.146 98.031 19.156 97.99 C18.195 97.95 17.248 97.871 16.327 97.755 C15.363 97.632 14.427 97.468 13.532 97.263 C12.693 97.071 11.891 96.843 11.134 96.58 C10.312 96.295 9.544 95.967 8.844 95.599 C8.206 95.263 7.624 94.894 7.109 94.491 C6.539 94.046 6.051 93.561 5.657 93.036 Z" fill="url(#linear-gradient-2)" stroke="#23697a" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M6.47 86.7 C16.935 92.043 44.465 74.578 48 57.235" fill="none" stroke="#23697a" stroke-width="2.5" stroke-linecap="round"/>
+    <g>
+      <path d="M74 40.371 C76 55.371 90.5 58.457 92.5 72.457" fill="none" stroke="#23697a" stroke-width="2.4" stroke-linecap="round"/>
+      <path d="M91.062 26.268 C98.316 33.232 114.838 40.473 116.838 54.473" fill="none" stroke="#23697a" stroke-width="2.4" stroke-linecap="round"/>
+      <path d="M103.553 22.14 C110.807 29.103 117.529 28.157 119.583 38.146" fill="none" stroke="#23697a" stroke-width="2.4" stroke-linecap="round"/>
+      <path d="M82.5 39.666 C84.5 50.666 99.163 58.048 100.163 70.048" fill="none" stroke="#23697a" stroke-width="2.4" stroke-linecap="round"/>
+      <path d="M91.331 42.755 C92.331 49.755 106.456 58.5 106.456 65.5" fill="none" stroke="#23697a" stroke-width="2.4" stroke-linecap="round"/>
+      <path d="M100.163 47.293 C101.163 51.293 110.733 58.611 110.733 61.611" fill="none" stroke="#23697a" stroke-width="2.4" stroke-linecap="round"/>
+    </g>
+    <path d="M49 51.56 C57.5 39 61.723 32.854 67.367 27.771" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/>
+    <path d="M108 30.837 C97.458 20.523 94.34 21.844 86 24.025" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/>
+    <path d="M120.444 20.523 C114 17.713 110.339 18.77 105.592 19.216" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/>
+    <ellipse cx="66" cy="87" rx="20" ry="15" fill="url(#linear-gradient-3)" stroke="#7a2218" stroke-width="3"/>
+    <g>
+      <path d="M46 109 L37 95 C33 101 32 107.333 34 114 C38 118.667 43 120.667 49 120 C55 118 58 113.667 58 107 C57.333 103 55.667 99.333 53 96 L48 109 Z" fill="url(#linear-gradient-4)" stroke="#7a2218" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M86 109 L95 95 C99 101 100 107.333 98 114 C94 118.667 89 120.667 83 120 C77 118 74 113.667 74 107 C74.667 103 76.333 99.333 79 96 L84 109 Z" fill="url(#linear-gradient-5)" stroke="#7a2218" stroke-width="3" stroke-linejoin="round"/>
+    </g>
+    <g opacity="0.85">
+      <path d="M37 106 C37.667 110 39.333 113 42 115" fill="none" stroke="#ffb3a3" stroke-width="2" stroke-linecap="round"/>
+      <path d="M95 106 C94.333 110 92.667 113 90 115" fill="none" stroke="#ffb3a3" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g>
+      <line x1="58" y1="76" x2="57" y2="72" fill="#000000" stroke="#7a2218" stroke-width="3" stroke-linecap="round"/>
+      <line x1="74" y1="76" x2="75" y2="72" fill="#000000" stroke="#7a2218" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <circle cx="57" cy="69" r="5.5" fill="#1d1d1f"/>
+    <circle cx="75" cy="69" r="5.5" fill="#1d1d1f"/>
+    <circle cx="58.8" cy="67.3" r="1.8" fill="#ffffff"/>
+    <circle cx="76.8" cy="67.3" r="1.8" fill="#ffffff"/>
+    <ellipse cx="53" cy="89" rx="3.5" ry="2.3" fill="#ff9c8a" opacity="0.9"/>
+    <ellipse cx="79" cy="89" rx="3.5" ry="2.3" fill="#ff9c8a" opacity="0.9"/>
+    <path d="M61 87 C63 92 69 92 71 87" fill="none" stroke="#5a1710" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+</svg>

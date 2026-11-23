@@ -1,0 +1,11 @@
+#!/bin/sh
+# HermitCrab AppImage entry point.
+HERE="$(dirname "$(readlink -f "$0")")"
+
+# The bundled Qt must not try to load the system's Qt plugins (Breeze,
+# Kvantum, KDE platform theme) — they're built for a different Qt and crash.
+# HermitCrab copies your KDE colours, font and icon theme itself instead.
+unset QT_PLUGIN_PATH QT_QPA_PLATFORMTHEME QT_STYLE_OVERRIDE QML2_IMPORT_PATH
+export QT_QPA_PLATFORM="${QT_QPA_PLATFORM:-wayland;xcb}"
+
+exec "$HERE/usr/lib/hermitcrab/hermitcrab" "$@"

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=HermitCrab
+GenericName=Desktop Backup & Migration
+Comment=Move your whole desktop — themes, widgets, apps — to a new install
+Exec=hermitcrab
+Icon=hermitcrab
+Terminal=false
+Categories=System;Utility;
+Keywords=backup;restore;migrate;theme;kde;plasma;dotfiles;
+StartupWMClass=hermitcrab

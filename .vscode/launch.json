@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+
+    {
+      "name": "HermitCrab (GUI)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "hermitcrab",
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    },
+    {
+      "name": "Scanner only (no window)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/tools/debug_scan.py",
+      "args": ["migrate"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Self-test",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "hermitcrab",
+      "args": ["--self-test"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}

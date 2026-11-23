@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.AppImage
+*.spec
+.venv/
+venv/
+# never commit a real backup
+kde-migrate-*/
+kde-migrate-*.tar.gz
+kde-themepack-*/
+kde-themepack-*.tar.gz
+*.log
